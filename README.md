@@ -70,7 +70,7 @@ Next, I want to choose one of the most popular term-weighting schemes, which is 
 
 First, I pick the top twenty tf_idf scores in all the text.
 
-![image](figs/relative_word_frequency.png)
+![image](figs/tf_idf_all.png)
 
 Wow! It is surprising that there are so many names here! I can see 'Perdita', 'Adrian', 'Justine', etc. These names appear more frequently than other words. 
 
